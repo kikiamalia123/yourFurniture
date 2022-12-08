@@ -1,0 +1,54 @@
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\bin\Debug\net6.0-windows\You furniture.exe
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\bin\Debug\net6.0-windows\You furniture.deps.json
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\bin\Debug\net6.0-windows\You furniture.runtimeconfig.json
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\bin\Debug\net6.0-windows\You furniture.dll
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\bin\Debug\net6.0-windows\You furniture.pdb
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You furniture.csproj.AssemblyReference.cache
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You_furniture.Form1.resources
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You_furniture.Form2.resources
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You_furniture.Form3.resources
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You_furniture.Form4.resources
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You furniture.csproj.GenerateResource.cache
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You furniture.GeneratedMSBuildEditorConfig.editorconfig
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You furniture.AssemblyInfoInputs.cache
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You furniture.AssemblyInfo.cs
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You furniture.csproj.CoreCompileInputs.cache
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You furniture.dll
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\refint\You furniture.dll
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You furniture.pdb
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You furniture.genruntimeconfig.cache
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\ref\You furniture.dll
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You_furniture.Form6.resources
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You_furniture.form_data_barang.resources
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\bin\Debug\net6.0-windows\Npgsql.dll
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You furniture.csproj.CopyComplete
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You_furniture.Form7.resources
+E:\0.Kuliah\Semester 3\PBO\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You_furniture.Properties.Resources.resources
+C:\kiki\You furniture\You furniture\bin\Debug\net6.0-windows\You furniture.exe
+C:\kiki\You furniture\You furniture\bin\Debug\net6.0-windows\You furniture.deps.json
+C:\kiki\You furniture\You furniture\bin\Debug\net6.0-windows\You furniture.runtimeconfig.json
+C:\kiki\You furniture\You furniture\bin\Debug\net6.0-windows\You furniture.dll
+C:\kiki\You furniture\You furniture\bin\Debug\net6.0-windows\You furniture.pdb
+C:\kiki\You furniture\You furniture\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\kiki\You furniture\You furniture\bin\Debug\net6.0-windows\Npgsql.dll
+C:\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You furniture.csproj.AssemblyReference.cache
+C:\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You_furniture.Form1.resources
+C:\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You_furniture.Form2.resources
+C:\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You_furniture.Form3.resources
+C:\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You_furniture.Form4.resources
+C:\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You_furniture.form_data_barang.resources
+C:\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You_furniture.Form6.resources
+C:\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You_furniture.Form7.resources
+C:\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You_furniture.Properties.Resources.resources
+C:\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You furniture.csproj.GenerateResource.cache
+C:\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You furniture.GeneratedMSBuildEditorConfig.editorconfig
+C:\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You furniture.AssemblyInfoInputs.cache
+C:\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You furniture.AssemblyInfo.cs
+C:\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You furniture.csproj.CoreCompileInputs.cache
+C:\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You furniture.csproj.CopyComplete
+C:\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You furniture.dll
+C:\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\refint\You furniture.dll
+C:\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You furniture.pdb
+C:\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\You furniture.genruntimeconfig.cache
+C:\kiki\You furniture\You furniture\obj\Debug\net6.0-windows\ref\You furniture.dll
